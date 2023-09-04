@@ -4,6 +4,12 @@
   ![header](https://capsule-render.vercel.app/api?type=transparent&text=HoYeon's%20GitHub&fontColor=682eaa&height=300&fontSize=90&animation=twinkling)
   
 </div>
+
+## 👨🏻‍💻 About Me
+### BackEnd Developer
+✉️ E-Mail : highoption@naver.com
+
+
 <h1>👨‍💻Tech Stacks</h1>
 <h3>Platforms & Languages</h3>
 <p>
