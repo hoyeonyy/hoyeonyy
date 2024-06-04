@@ -1,9 +1,4 @@
 
-<div align="center">
-  
-  ![header](https://capsule-render.vercel.app/api?type=transparent&text=HoYeon's%20GitHub&fontColor=682eaa&height=300&fontSize=90&animation=twinkling)
-  
-</div>
 
 <h1>👨🏻‍💻 About Me</h1>
 
