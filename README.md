@@ -1,42 +1,33 @@
+# Hi 👋, I'm hoyeon cho(Hogee)
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhoyeonyy%2Fhit-counter&count_bg=%23555555&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+Backend Engineer 🌱
+
+## 👩‍💻 Education
+
+[2024.02 ~ 2024.11] Woowacourse 6th Backend  
+[2022.09 ~ 2023.12] Alom Server Mentor  
+[2018.03 ~ 2024.02] Sejong University
 
 
-<h1>👨🏻‍💻 About Me</h1>
-
-### BackEnd Developer
-✉️ E-Mail : highoption@naver.com
-
-
-<h1>👨‍💻Tech Stacks</h1>
-<h3>Platforms & Languages</h3>
-<p>
-<img src="https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white">
-<img src="https://img.shields.io/badge/JAVA-007396.svg?&style=for-the-badge&logo=JAVA&logoColor=white">
-  <br>
-<img src="https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white">
-  <br>
-<img src="https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white">
-<img src="https://img.shields.io/badge/amazonec2-FF9900.svg?&style=for-the-badge&logo=amazonec2&logoColor=white">
-
-</p>
-<h3>Tools</h3>
-<p>
-<img src="https://img.shields.io/badge/IntelliJ IDEA-000000.svg?&style=for-the-badge&logo=IntelliJ IDEA&logoColor=white">
-<img src="https://img.shields.io/badge/CLion-000000.svg?&style=for-the-badge&logo=CLion&logoColor=white">
-<img src="https://img.shields.io/badge/DataGrip-000000.svg?&style=for-the-badge&logo=DataGrip&logoColor=white">
-  <br>
-<img src="https://img.shields.io/badge/Postman-FF6C37.svg?&style=for-the-badge&logo=Postman&logoColor=white">
-<img src="https://img.shields.io/badge/Visual Studio-5C2D91.svg?&style=for-the-badge&logo=Visual Studio&logoColor=white">
-<img src="https://img.shields.io/badge/Eclipse IDE-2C2255.svg?&style=for-the-badge&logo=Eclipse IDE&logoColor=white">
-
-<img src="https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white">
-
-</p>
-<h1>🔥Skills</h1>
-
-<h3>BOJ Rank</h3>
+## 🧩 Problem Solving
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=saljanchi)](https://solved.ac/saljanchi)
 
-<h3>Status</h3>
+## 🛠 Tech Stack
 
-[![Hoyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=hoyeonyy&show_icons=true&theme=radical)](https://github.com/hoyeonyy/)
+### Programming Languages
+![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
+
+### Frameworks & Other Systems
+![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?&style=for-the-badge&logo=Spring%20Boot&logoColor=white)
+
+### Infrastructure
+![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white)
+
+---
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hoyeonyy&layout=compact&theme=tokyonight)
