@@ -11,7 +11,3 @@ Backend Engineer 🌱
 [2018.03 ~ 2024.02] Sejong University
 
 
-## 🧩 Problem Solving
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=saljanchi)](https://solved.ac/saljanchi)
-
